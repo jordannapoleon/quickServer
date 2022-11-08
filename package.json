@@ -1,0 +1,24 @@
+{
+  "name": "quickserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quickServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordannapoleon/quickServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordannapoleon/quickServer/issues"
+  },
+  "homepage": "https://github.com/jordannapoleon/quickServer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+  }
+}
